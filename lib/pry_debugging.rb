@@ -1,6 +1,5 @@
 
 def plus_two(num)
-puts num == 3
-num 
+num = 2+ 3
 	
 end 
